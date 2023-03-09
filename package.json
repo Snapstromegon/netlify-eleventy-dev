@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build:serve": "npx @11ty/eleventy --serve",
-    "dev": "npx netlify-cli dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npx netlify-cli dev"
   },
   "keywords": [],
   "author": "",
